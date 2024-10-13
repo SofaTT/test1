@@ -16,9 +16,9 @@ def print_hii(name):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi('PyCharm')
+    print_hi('PyCharmaaaaaaa')
 
-print_hii('PyCharm123')
+print_hii('PyCharm1234564566544')
 
 
 
